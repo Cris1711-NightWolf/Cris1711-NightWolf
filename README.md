@@ -1,3 +1,35 @@
+# 🗺️ Elige tu aventura
+
+Te despiertas en una cabaña desconocida... ¿Qué haces?
+
+➡️ [Salir por la puerta](#puerta)  
+➡️ [Explorar la cocina](#cocina)  
+
+---
+
+## Puerta
+Afuera hay un bosque 🌲... escuchas un rugido.  
+➡️ [Correr hacia el sonido](#oso)  
+➡️ [Esconderte detrás de un árbol](#ganaste)  
+
+---
+
+## Cocina
+Un gato te mira fijamente 🐈... parece querer algo.  
+➡️ [Darle comida](#ganaste)  
+➡️ [Ignorarlo](#perdiste)  
+
+---
+
+## Oso
+Un oso aparece 🐻  
+**Fin del juego.** 💀
+
+## Ganaste
+🎉 ¡Felicidades, sobreviviste!
+
+## Perdiste
+💀 Mala decisión...
 
 
 ## Hola bienvenidos mi nombre es cristian alias NightWolf :v mi primer Readme con mi primer repositorio :)
