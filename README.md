@@ -1,3 +1,5 @@
+![Snake](https://media.giphy.com/media/3o7aD4VrGN5zkk3tDi/giphy.gif)
+
 ## Hola bienvenidos mi nombre es cristian alias NightWolf :v mi primer Readme con mi primer repositorio :)
 
 # 💫 Sobre Mi:
